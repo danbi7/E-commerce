@@ -1,0 +1,5 @@
+# exclude data folder
+data/
+
+# exclude Jupyter notebook checkpoint files
+.ipynb_checkpoints/
