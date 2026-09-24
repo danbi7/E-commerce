@@ -1,0 +1,6 @@
+| **Stakeholder** | **Interest** | **Influnce** | **Impact/Urgency** | **Pain Point** |
+| -- | -- | -- | -- | -- |
+| Operations/Logistics Manager| Protect delivery SLAs and streamline dispatch-to-carrier transitions | High | High | Lack of granular operational visibility into bottleneck root causes (e.g., origin seller lag vs. carrier transit delays).|
+| Customer Support Lead | Lower inbound ticket volume and reduce repeat contact handling costs | Medium | High | High ticket deflection failure; agents spend excessive time manually investigating status for delay inquiries. |
+| Regional Sellers | Preserve store ratings, protect repurchase rates, and avoid marketplace penalties | Medium | High | Unfair reputational damage and poor reviews caused by third-party carrier delays outside their control. |
+| Customers | Predictable, on-time delivery with end-to-end order transparency | Low | Critical | Anxiety from missing delivery windows and inaccurate ETA updates, leading to dispute escalation and negative reviews. |
